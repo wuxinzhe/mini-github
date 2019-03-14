@@ -1,0 +1,8 @@
+<view class="search-bar">
+    <input class="search-input" placeholder="Search Github" bindconfirm="onSearchConfirm"/>
+</view>
+<scroll-view class="search-tab" scroll-x="{{true}}">
+    <view>
+    
+    </view>
+</scroll-view>
